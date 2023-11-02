@@ -36,6 +36,7 @@ Nessa aula, abordamos uma introdução a como usar o Python e o Pandas no contex
 ### Material da aula 📒
 - [Slides](https://drive.google.com/file/d/1QXL7Qfc5XXFwIWCPaxsSCQbz_tGlgQan/view?usp=sharing)
 - [Notebook](https://github.com/turing-usp/curso-intro-ds/blob/main/aula01/Aula_1_Curso_Intro_a_DS_Cosmos_.ipynb)
+- [Fonte do dataset utilizado](https://archive.ics.uci.edu/dataset/2/adult)
 
 ## Aula 2: Limpeza e tratamento de dados
 
@@ -50,3 +51,4 @@ Nessa aula, iremos aplicar os conceitos de Pandas estudados anteriormente para a
 ### Material da aula 📒
 - Slides
 - Notebook
+- Fonte do dataset utilizado
