@@ -1,8 +1,6 @@
-# Curso de Introdução a Data Science - Samsung Ocean 
+# Curso de Introdução a Data Science
 
-Curso de introdução a Data Science ministrado em parceria com o Ocean Samsung
-
-A ideia deste curso é fornecer um primeiro contato com Data Science, explorando os conceitos bases e aplicações em Python.
+A ideia deste curso é fornecer um primeiro contato com Data Science, explorando os conceitos básicos e aplicações em Python.
 
 Ao fim das aulas, a ideia é que os participantes estejam familiariazados com o processo de **tratar, analisar, construir visualizações e modelos de predição** a partir de um determinado conjunto de dados.
 
