@@ -47,6 +47,22 @@ Nessa aula, iremos aplicar os conceitos de Pandas estudados anteriormente para a
 - Caso real de um notebook com algumas análises exploratórias
 
 ### Material da aula 📒
-- Slides
-- Notebook
-- Fonte do dataset utilizado
+- [Slides](https://drive.google.com/file/d/1VcBL_n-QbnDO0YDgz8lJyHmvOcuIvAjj/view?usp=drive_link)
+- [Notebook](https://github.com/turing-usp/curso-intro-ds/blob/main/aula02/Aula_2_Curso_Intro_a_DS_Cosmos_.ipynb)
+- [Fonte do dataset utilizado](https://www.kaggle.com/datasets/arashnic/hr-ana) -- O dataset utilizado foi modificado para que pudéssemos realizar sua limpeza
+
+## Aula 3: Visualização de dados
+
+Nessa aula, iremos aplicar entrar mais a fundo na parte de visualizar os nossos dados, abordando sua importância e as principais abordagens usadas para isso.
+
+### Conteúdo 📚
+- O que é visualização de dados, onde é usada e qual sua importância
+- O que é necessário em uma boa visualização
+- Fundamentos de [Matplotlib](https://matplotlib.org/) e como utilizar a biblioteca para fazer e personalizar visualizações (como subplots, títulos, legendas, etc)
+- Um mergulho no [Seaborn](https://seaborn.pydata.org/) e suas principais funções, conhecendo e entendendo diferentes tipos de gráficos e quando aplicá-los
+- Um exemplo de visualização geográfica com [Plotly](https://plotly.com/python/)
+
+### Material da aula 📒
+- [Slides](https://drive.google.com/file/d/1i6wQSszWxcoZPfbGrtjEagAKHBgez_SE/view?usp=drive_link)
+- [Notebook](https://github.com/turing-usp/curso-intro-ds/blob/main/aula03/Aula_3_Curso_DataViz_Ocean.ipynb)
+- [Fonte do dataset utilizado](https://www.kaggle.com/datasets/argonalyst/sao-paulo-real-estate-sale-rent-april-2019)
