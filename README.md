@@ -66,3 +66,33 @@ Nessa aula, iremos aplicar entrar mais a fundo na parte de visualizar os nossos 
 - [Slides](https://drive.google.com/file/d/1i6wQSszWxcoZPfbGrtjEagAKHBgez_SE/view?usp=drive_link)
 - [Notebook](https://github.com/turing-usp/curso-intro-ds/blob/main/aula03/Aula_3_Curso_DataViz_Ocean.ipynb)
 - [Fonte do dataset utilizado](https://www.kaggle.com/datasets/argonalyst/sao-paulo-real-estate-sale-rent-april-2019)
+- 
+## Aula 4: Introdução a predição
+
+Nessa aula, iremos aprender o que significa realizar predições a partir dos seus dados e como podemos entender, aplicar e avaliar diferentes modelos de aprendizado estatístico para isso.
+
+### Conteúdo 📚
+- Predição: O que é?
+  - Aprendizado supervisionado e não supervisionado
+  - Regressão e classificação
+- _Bias-variance trade-off_
+- _Underfitting_ e _overfitting_
+- Divisão dos dados em treino e teste e fluxo de trabalho
+- Conhecendo alguns modelos
+  - Naive Bayes
+  - Regressão Linear
+  - K-nearest neighbors (kNN)
+- Avaliando os modelos de classificação
+  - Matriz de confusão: acurária, _precision_, _recall_
+  - F1-score, F-β score
+- Avaliando modelos de regressão
+  - R²
+  - MSE, RMSE, MAE
+- Interpretabilidade e explicabilidade de modelos
+- Parte prática
+  - Uso da biblioteca [Scikit Learn](https://scikit-learn.org/) para um exemplo prático de predição
+
+### Material da aula 📒
+- [Slides](https://drive.google.com/file/d/10WdhjqlCZ1ZBpii-MZC-H3aRVb0xTVWd/view?usp=sharing)
+- [Notebook]()
+- [Fonte do dataset utilizado](https://www.kaggle.com/datasets/arashnic/hr-ana)
